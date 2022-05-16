@@ -1,0 +1,6 @@
+-Starts with player 1.
+-Roll the dice and accumulate points and hold the points to add to the
+total points, after holding the points player is changed
+-If you roll one then current points will be lost and trun will
+be given to second player
+-First player to reach 100 total points wins.
